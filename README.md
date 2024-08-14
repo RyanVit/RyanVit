@@ -4,7 +4,8 @@ Olá, meu nome é Ryan Rodrigues! Sou um Engenheiro de Dados, Sou apaixonado por
 
 ## Habilidades Técnicas
 <div>
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" />
+          
 </div>
 
 ## Links para contatos:
