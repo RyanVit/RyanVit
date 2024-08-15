@@ -3,7 +3,7 @@
 Olá, meu nome é Ryan Rodrigues! Sou um Engenheiro de Dados, Sou apaixonado por tecnologia e me esforço para aprender e me adaptar a novos desafios de forma eficaz.
 
 ### Objetivos
-Apaixonado por tecnologia, programação e a arte de criar soluções inovadoras
+Apaixonado por tecnologia, programação e a arte de criar soluções inovadoras.
 Amo livros, especialmente aqueles que exploram desenvolvimento pessoal, tecnologia e ficção científica 📚
 
 - Nos meus momentos de lazer, gosto de:
