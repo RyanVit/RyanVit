@@ -1,5 +1,5 @@
 # Quem sou eu?
-Olá, meu nome é Ryan Rodrigues! Sou um Engenheiro de Dados, Sou apaixonado por tecnologia e me esforço para aprender e me adaptar a novos desafios de forma eficaz.
+Olá, meu nome é Ryan Rodrigues! Sou um Engenheiro de Dados formado em ciência da computação, Sou apaixonado por tecnologia e me esforço para aprender e me adaptar a novos desafios de forma eficaz.
 
 ### Objetivos
 Apaixonado por tecnologia, programação e a arte de criar soluções inovadoras.
